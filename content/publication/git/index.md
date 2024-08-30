@@ -23,7 +23,6 @@ featured: false
 
 authors:
   - admin
-  - Тимур Митрофанов
 
 tags:
   - Academic

@@ -30,7 +30,6 @@ image:
 
 authors:
   - admin
-  - Тимур Митрофанов
 
 tags:
   - Academic
