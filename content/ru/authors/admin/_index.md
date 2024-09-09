@@ -83,6 +83,6 @@ languages:
     percent: 100
 ---
 
-## About Me
+## Про меня
 
 Учусь в РУДН
