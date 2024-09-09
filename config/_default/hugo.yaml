@@ -6,16 +6,24 @@
 # Website name
 title: Hugo Academic CV Theme
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://ovezovm.github.io/'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ru
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+languages:
+  en:
+    weight: 1
+    title: "My Site"
+  ru:
+    weight: 2
+    title: "Мой сайт"
 
 ############################
 ## ADVANCED

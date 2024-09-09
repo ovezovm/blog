@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mergen Ovezov
+title: Мерген Овезов
 
 # Name pronunciation (optional)
-name_pronunciation: Mergen Ovezov
+name_pronunciation: Мерген Овезов
 
 # Full name (for SEO)
-first_name: Mergen
-last_name: Ovezov
+first_name: Мерген
+last_name: Овезов
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: Студент
 
 # Organizations/Affiliations to display in Biography blox
 
@@ -28,35 +28,24 @@ role: Student
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:1032234249@pfur.ru'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/ovezovm
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - искусственный интеллект
+  - Компьютерная лингвистика
 
 education:
-  - area: Artificial Intelligence
+  - area: Бизнес Информатика
     institution: RUDN
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01-01
+    date_end: 2028-06-30
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Технические навыки
     items:
       - name: Python
         description: ''
@@ -70,19 +59,19 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Походы
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Кошки
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Фотография
         description: ''
         percent: 80
         icon: camera
