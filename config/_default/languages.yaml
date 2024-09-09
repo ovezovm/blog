@@ -13,18 +13,9 @@ ru:
       - name: Посты
         url: '#posts'
         weight: 20
-      - name: Проекты
-        url: '#projects'
-        weight: 30
-      - name: Выступления
-        url: '#talks'
-        weight: 40
       - name: Публикации
         url: '#publication'
         weight: 50
-      - name: Контакты
-        url: '#contact'
-        weight: 60
       - name: Биография
         url: '#biography'
         weight: 70
