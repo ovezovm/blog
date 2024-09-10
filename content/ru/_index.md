@@ -30,20 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+    
   - block: collection
     content:
-      title: Recent Publications
+      title: Последние Публикации
       text: ""
       filters:
         folders:
@@ -54,7 +44,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Текущие и Предстоящие Темы 
       filters:
         folders:
           - event
@@ -64,7 +54,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Текущие Новости
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
