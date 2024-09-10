@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YA DOLBAEB
+title: Mergen Ovezov
 
 # Name pronunciation (optional)
 name_pronunciation: Mergen Ovezov
