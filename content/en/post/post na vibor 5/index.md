@@ -1,5 +1,5 @@
 ---
-title: Refactoring: Art or Necessity?
+title: Refactoring Art or Necessity?
 subtitle: Refactoring
 # Summary for listings and search engines
 summary: Refactoring isn't just a useful practice
