@@ -38,17 +38,14 @@ categories:
 ---
 ## Another exhibition
 
-The past week has been eventful and memorable. It began with a trip to the exhibition, where I was impressed not only by the works of contemporary artists, but also by the atmosphere of art in general. It was great to see how art affects the perception of the world around us, and to leave with new thoughts and ideas. 
+This week turned out to be intense. After setting up the initial prototype last week, I started integrating the different services. And guess what? Bugs everywhere! The communication between services wasn’t as smooth as I had anticipated.
 
-## Rest
-
-Later, towards the middle of the week, I went fishing with friends. It was a great way to relax and get away from the hustle and bustle of the city. We enjoyed nature, talked around the campfire, and a few caught fish became a pleasant bonus. Time spent outdoors always gives you a boost of energy and positive emotions.
 
 ## Study
 
-Of course, the week was not without study. I continued to work on important topics, trying not to lose pace. Studying took a lot of time, but each new step I took made me more confident in my knowledge. It's nice to feel progress and realize that all the efforts are worth it.
+I spent hours debugging issues related to network calls between Docker containers and configuring the message broker correctly.
 
 ## The result
 
-I ended the week with a full rest, allowing myself to relax and enjoy the silence. At such moments, you realize how important it is to be able to recover and find a balance between work, study and personal interests. It was the perfect end to a week filled with different events and emotions.
+There were days when I felt like I was chasing ghosts in the code, but slowly things started to make sense. By Friday, I finally managed to fix the majority of the communication issues, and the system is now running more smoothly
 

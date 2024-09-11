@@ -36,6 +36,8 @@ tags:
 categories:
   - Weekly stories
 ---
-## Briefly
+## Unexpected Challenges
 
-Since I am still at home, the past week is not really different from the last one, which can be found in the previous post. I visited relatives who do not live near us, saw many more friends and helped my parents with the housework.
+This week threw me a curveball. I encountered a serious performance issue during load testing. The system was much slower than expected under heavy traffic. After analyzing the logs, I found that one of the services was causing bottlenecks due to inefficient database queries.
+
+I spent days optimizing those queries, indexing database tables, and implementing caching mechanisms. By the end of the week, the performance improved significantly, but I still feel there’s room for further optimization. It’s been stressful, but I’ve learned a lot about performance tuning.

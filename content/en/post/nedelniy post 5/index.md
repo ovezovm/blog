@@ -36,8 +36,8 @@ tags:
 categories:
   - Weekly stories
 ---
-## Sad
+## Celebrating Milestones
 
-These months at home have passed too quickly. It seemed that he had just met with his family, hugged his parents, sat with friends, and it was time to return to school. It's so strange to realize that you have to leave everything that is so dear again. 
+This week ended on a high note! After weeks of hard work, we finally hit a major milestone. The system passed load testing with flying colors, and the performance is now well within acceptable limits. My team and I had a small celebration at the end of the week.
 
-Every corner here is saturated with memories, and every day the departure seems harder. I will miss evenings with my loved ones and walking along familiar streets. Of course, there are new knowledge and opportunities ahead, but leaving home is always difficult.
+Looking back, I feel a great sense of accomplishment. From struggling with Docker and bugs to optimizing performance, this project has pushed me to improve my skills in many areas. Now we’re moving into the next phase — deploying the system to production. There’s still a lot to do, but I’m more confident than ever.

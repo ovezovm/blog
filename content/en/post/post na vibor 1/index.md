@@ -48,15 +48,15 @@ Git is a distributed version control system that has become an indispensable too
 4. Merge is the process of combining changes from one branch into another. This allows you to integrate new features or fixes into the main branch of the project.
 
 ## Key Git Commands
-1. **git init**: Initializes a new Git repository in the current directory.
-2. **git clone**: Clones an existing repository to your local machine.
-3. **git add**: Adds changes to the index for subsequent commit.
-4. **git commit**: Creates a new commit with added changes.
-5. **git status**: Displays the current state of the repository, showing changed, added, and deleted files.
-6. **git branch**: Manages branches, allowing you to create, delete, and switch between branches.
-7. **git merge**: Merges changes from one branch into the current branch.
-8. **git pull**: Downloads changes from the remote repository and merges them into the current branch.
-9. **git push**: Sends local commits to the remote repository.
+1. **git clone**: Clones an existing repository to your local machine.
+2. **git commit**: Creates a new commit with added changes.
+3. **git branch**: Manages branches, allowing you to create, delete, and switch between branches.
+4. **git merge**: Merges changes from one branch into the current branch.
+5. **git pull**: Downloads changes from the remote repository and merges them into the current branch.
+6. **git push**: Sends local commits to the remote repository.
+7. **git init**: Initializes a new Git repository in the current directory.
+8. **git add**: Adds changes to the index for subsequent commit.
+9. **git status**: Displays the current state of the repository, showing changed, added, and deleted files.
  
 ## Benefits of Using Git
  

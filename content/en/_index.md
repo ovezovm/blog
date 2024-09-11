@@ -32,10 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: ' My Research'
       subtitle: ''
       text: |-
-        I like to spend a lot of time with horses, thereby studying them at the same time. If you are a fan of horses like me, then you can write to me and we will discuss spending time together.
+        In my free time, I go to the court and play basketball. It is a good way to clear my head of unnecessary thoughts and helps me solve many problems.
     design:
       columns: '1'
   - block: collection

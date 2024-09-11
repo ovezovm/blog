@@ -38,17 +38,16 @@ categories:
 ---
 ## The social aspect
 
-This week has been eventful and filled with a variety of impressions. I plunged into the world of art and culture by attending several interesting events. Each of them gave new emotions, reflections and inspiration. Live performances and galleries helped me disconnect from the daily hustle and bustle and rethink the usual things a little.
+his week started with excitement. I was assigned a new project at work, which involves building a microservice architecture using Python and Docker. 
 
-## Reunion
 
-In the middle of the week, I went home to my parents. These trips always bring a special feeling of peace and comfort. The homely atmosphere and native faces are a real reboot.
 
 ## Favorite activity
 
-Well, I ended the week on my favorite note — horseback riding. There is nothing better than riding through the fields, feeling freedom and harmony with nature. The time spent with my beloved horses was the perfect point at the end of this busy week.
+I’ve worked with monolithic systems before, so diving into microservices is both a challenge and an opportunity for growth.
 
+I spent most of the week studying different design patterns, ensuring scalability and resilience in the system. There were moments of frustration, especially when Docker containers wouldn’t behave as expected.
 
 ## The result
 
-It's good that there are such moments!
+However, by the end of the week, I managed to get a working prototype of one service. It’s just the beginning, but I’m looking forward to the coming weeks!

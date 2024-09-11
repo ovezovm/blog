@@ -37,21 +37,9 @@ categories:
   - Weekly stories
   
 ---
-## Coming home
+## Refactoring Frenzy
 
-Last week I finally returned to my homeland. I've been waiting for this moment for a long time, and it exceeded all expectations. As soon as I got off the plane, I was overcome by a feeling of something native, familiar. The air, the smells, even the noise of the streets — everything reminded of childhood.
+After resolving most of the bugs last week, I realized the codebase had become quite messy. So this week was dedicated to refactoring. I reorganized several modules, cleaned up redundant code, and implemented a more consistent logging system.
 
-## Upon arrival
-
-The first thing I did was go to my parents. They greeted me with warm hugs and joy in their eyes. We talked for a long time, remembering the old days. Mom cooked her favorite dishes, and at dinner we laughed like in the good old days. The house I grew up in seemed the same, but it felt like a new comfort.
-
-
-## Old friends
-
-The next day I met with friends. We all changed — someone got a job, someone got a family, but as soon as we got together, everything was exactly the same as many years ago. We walked along the old streets for a long time, laughing and sharing stories. It turned out that time could not destroy our friendship.
-
-
-## The result
-
-I am glad that I was able to return and feel connected to my native places and people again. This week reminded me that roots are an important part of life, and no matter how far you go, home is always waiting for you.
+It was tedious work, but very satisfying. Seeing the code become more modular and easier to maintain is always rewarding. I also wrote additional unit tests to ensure future changes won’t break anything unexpectedly. Now the code is in much better shape, and I’m confident it’ll be easier to scale and extend.
 
