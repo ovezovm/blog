@@ -38,8 +38,9 @@ profiles:
 
 interests:
   - Learning languages
-  - Horseback riding
+  - Sport
   - The study of modern technologies
+  - Reading
 
 education:
   - area: Business Informatics
@@ -95,12 +96,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: he lord of the trotters. Mastering the art of horse riding.
+  - title: winner of city championship
     date: '2019-05-12'
-    awarder: International Equestrian Association (FEI)
+    awarder: Turkmen Basketball Assosiation(TBA)
     icon: fei
     summary: |
-      For outstanding achievements in the study of the biomechanics of horse movement and the practical application of knowledge in competitions. I managed to reach a level that allows me to optimize my interaction with the horse so that the results in the disciplines of triathlon and dressage improved; I demonstrated an exceptional understanding of equine anatomy and behavior.
+      Won a national championship with the team and became a useful player in the team.
 
 ---
 
