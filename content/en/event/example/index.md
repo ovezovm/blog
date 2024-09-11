@@ -1,14 +1,7 @@
 ---
-title: My retake
+title:
 
-event: Retaking The Computer Architecture
 
-location: PFUR, Physics and Mathematics building
-address:
-  street: Ordzhonikidze, 3
-  city: Moscow
-  postcode: '090924'
-  country: Russia
  
 
 summary: Retaking the Architecture of Computers and Operating Systems
