@@ -33,7 +33,7 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0008-6478-0751&justRegistered=true
     label: ORCID
   - icon: github
-    url: https://github.com/iasattorov/
+    url: https://github.com/ovezovm
     label: github
 
 interests:
@@ -44,7 +44,7 @@ interests:
 
 education:
   - area: Business Informatics
-    institution: Peoples' Friendship University of Russia
+    institution: RUDN
     date_start: 2023-09-01
     date_end: 2027-09-01
     summary: |
