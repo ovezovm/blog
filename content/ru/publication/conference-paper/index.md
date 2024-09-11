@@ -1,12 +1,12 @@
 ---
-title: 'Никогда не проводившееся исследование'
+title: 'Различия в мышлении программистов пишущих на разных языках программирования'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Ник Фьюри
+  - Мерген Овезов
 
 # Author notes (optional)
 author_notes:
@@ -25,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['Научное исследование']
 
 # Publication name and optional abbreviated publication name.
-publication: Во всех мировых изданиях
-publication_short: На Первом Канале
+publication: Журнал "Science"
+publication_short: 
 
-abstract: Небольшое исследование, которое никогда не проводилось.
+abstract: Исследование на тему различного способа мышления программистов в зависимости от выбранного ими языка программирования.
 
 # Summary. An optional shortened abstract.
-summary: Небольшое исследование, которое никогда не проводилось.
+summary: Небольшой отрывок.
 
 tags:
   - Large Language Models
