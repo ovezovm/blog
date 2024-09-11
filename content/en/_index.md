@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Mergen Ovezov"
 date: 2022-10-24
 type: landing
 
@@ -30,6 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        I like to spend a lot of time with horses, thereby studying them at the same time. If you are a fan of horses like me, then you can write to me and we will discuss spending time together.
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
@@ -40,7 +48,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
@@ -51,6 +59,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: news
     content:

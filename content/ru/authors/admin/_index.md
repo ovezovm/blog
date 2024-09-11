@@ -1,17 +1,11 @@
 ---
 # Display name
-title: Мерген Овезов
+title: Икромджон Сатторов
 
-# Name pronunciation (optional)
-name_pronunciation: Мерген Овезов
 
 # Full name (for SEO)
-first_name: Мерген
-last_name: Овезов
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Икромджон
+last_name: Сатторов
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,71 +14,109 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Студент 2-го курса направления бизнес-информатика
+role: Студент
 
 # Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: РУДН
+    url: https://rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:1032234249@pfur.ru'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/ovezovm
+  - icon: book
+    url: https://elibrary.ru/author_info.asp?isold=1
+    label: eLibrary
+  - icon: scholar
+    url: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=LtdEI5EAAAAJ
+    label: Google Scholar
+  - icon: orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0008-6478-0751&justRegistered=true
+    label: ORCID
+  - icon: mendeley
+    url: https://www.mendeley.com/search/
+    label: Mendeley
+  - icon: researchgate
+    url: https://www.researchgate.net/profile/Ikromjhon-Sattorov?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InNpZ251cCIsInBhZ2UiOiJob21lIiwicHJldmlvdXNQYWdlIjoic2lnbnVwIiwicG9zaXRpb24iOiJnbG9iYWxIZWFkZXIifX0
+    label: ResearchGate
+  - icon: academia
+    url: https://independent.academia.edu/IkromSattorov
+    label: Academia.edu
+  - icon: arxiv
+    url: https://arxiv.org/user/
+    label: arXiv
+  - icon: github
+    url: https://github.com/iasattorov/
+    label: github
 
 interests:
-  - Искусственный интеллект
-  - Компьютерная лингвистика
-  - Программирование 
-  - Спорт
+  - Изучение языков
+  - Конные прогулки
+  - Изучение соверменных технологий
 
 education:
-  - area: Бизнес Информатика
-    institution: RUDN
-    date_start: 2023-01-01
-    date_end: 2028-06-30
+  - area: Бизнес-информатика
+    institution: Российский Университет Дружбы Народов
+    date_start: 2023-09-01
+    date_end: 2027-09-01
+    summary: |
+      Обучаюсь на втором курсе направления Бизнес-информатика.
+
+  
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Технические навыки
+  - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
         percent: 40
+        icon: code-bracket
+      - name: Нейронные сети
+        description: ''
+        percent: 50
+        icon: chart-bar
+      - name: Google Products
+        description: ''
+        percent: 70
         icon: circle-stack
-  - name: Хобби
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: прогулки на свежем воздухе 
+      - name: Конные прогулки
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Ухаживание за домашними животными
+      - name: Изучение языков
         description: ''
         percent: 100
         icon: cat
-      - name: Фотографировать людей в странных позах
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
-    percent: 50
-  - name: Russian
+    percent: 60
+  - name: Germany
+    percent: 40
+  - name: Uzbek language
     percent: 100
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Повелитель рысаков. Овладение искусством верховой езды.
+    date: '2019-05-12'
+    awarder: Международная Ассоциация конного спорта (FEI)
+    icon: fei
+    summary: |
+      За выдающиеся успехи в изучении биомеханики движения лошадей и практическое применение знаний на соревнованиях. Мне удалось достичь уровня, позволяющего потимизировать взаимодействие с лошадью так, что результаты в дисциплинах троеборья и выездки улучшились; демонстрировал исключительное понимание конской анатомии и поведения.
+
 ---
 
-## ПРО МЕНЯ
+## Обо мне
 
-Родился и вырос в столице Туркменистана, в городе - Ашхабад. Пошел в первый класс в 2012 году в среднюю специализированную школу номер 16 с углубленным изучением иностранных языков, в частности изучался английский, русский, туркменский, немецкий и фарси. Учавствовал в олимпиаде по информатике с 8-го по 10-ые классы. Учавствовал в олимпиадах по биологии, географии и английскому языку. Имел хороший от природы ум и не был счастлив выполнять домашние задания ибо схватывал тему во время урока и не нуждался в дополнительном закреплении знаний. с 10 до 11 лет занимался шахматами, там я не добился особых высот, но для своего возраста играл со старшими ребятами. В возрасте 12 лет брат повел меня за собой в секцию баскетбола. Баскетбол стал моей страстью на годы вперед, все оставшиеся время я развивал свои навыки. По итогу получил первый взрослый разряд, победу на чемпионате города и несколько серебряных медалей в чемпионате страны, а также травмы на ногах различной тяжести. В возрасте 18-ти лет окончив школу в своей стране поступил в РУДН и перебрался в Москву. Сейчас же изучаю программирование, являюсь студентом второго курса и уже год живу в новой для себя стране. 
+Меня зовут Икромджон Сатторов, родом из Узбекистана. Сейчас я обучаюсь на втором курсе в РУДН, на направлении Бизнес-информатика. Увлекаюсь конными прогулками, а также изучением современных технологий.

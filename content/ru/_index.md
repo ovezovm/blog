@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "ISATTOROV"
 date: 2022-10-24
 type: landing
 
@@ -15,9 +15,6 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -30,10 +27,28 @@ sections:
           size: cover
           position: center
           parallax: false
-    
+  - block: markdown
+    content:
+      title: '📚 Мои исследования'
+      subtitle: ''
+      text: |-
+        Мне нравится проводить много времени с лошадьми, тем самым заодно изучая их. Если вы, такой же фанат коняшек, как и я, то можете написать мне и мы обсудим совместное времяпрепровождение.
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Избранные публикации
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     content:
-      title: Последние Публикации
+      title: Последние публикации
       text: ""
       filters:
         folders:
@@ -44,7 +59,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Текущие и Предстоящие Темы 
+      title: Недавние и предстоящие переговоры
       filters:
         folders:
           - event
@@ -54,7 +69,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Текущие Новости
+      title: Последние новости
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
