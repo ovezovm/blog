@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https:/t.me/sparrrowwww
     design:
       css_class: dark
       background:
@@ -62,7 +62,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 
       filters:
         folders:
           - event

@@ -1,5 +1,5 @@
 ---
-title:  Недавние и предстоящие переговоры 
+
 cms_exclude: true
 #url: talk
 

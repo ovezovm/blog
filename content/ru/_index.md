@@ -59,7 +59,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Недавние и предстоящие переговоры
+      title: 
       filters:
         folders:
           - event
