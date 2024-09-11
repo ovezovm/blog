@@ -99,7 +99,7 @@ awards:
   - title: winner of city championship
     date: '2019-05-12'
     awarder: Turkmen Basketball Assosiation(TBA)
-    icon: fei
+    icon: TBA
     summary: |
       Won a national championship with the team and became a useful player in the team.
 
